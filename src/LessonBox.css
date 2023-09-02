@@ -1,0 +1,21 @@
+.phraseReturn{
+    border: 2px solid #213547;
+    padding: 1em;
+    border-radius: 1em;
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    color: #1a1a1a;
+}
+
+.regenBtn{
+    background-color: #213547;
+    transition: all 200ms ease;
+}
+
+.regenBtn:hover{
+    background-color: transparent;
+    color: #1a1a1a;
+    border: 1px solid #1a1a1a;
+}
+

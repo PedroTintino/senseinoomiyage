@@ -1,0 +1,30 @@
+#root {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+}
+
+.App{
+  background-image: url('https://images.unsplash.com/photo-1509023464722-18d996393ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  min-height:90vh;
+  padding-top: 3em;
+}
+
+
+
+
+.senseiPic{
+  height: 15em;
+  width: 10em;
+  border-radius: 1em;
+  padding-top: 2em; 
+}
+
+
+
+
