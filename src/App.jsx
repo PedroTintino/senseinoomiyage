@@ -9,7 +9,7 @@ function App() {
     <>
      <Navbar/>
     <div className='App'>
-      <img className='senseiPic' alt='a sensei picture' src='src\assets\sensei.jpg'></img>
+      <img className='senseiPic' alt='a sensei picture' src='src/assets/sensei.jpg'></img>
       <p> <strong>世界で最高の先生に短い敬意を表します!</strong></p>
       <LessonBox />
       </div>
