@@ -6,7 +6,7 @@ function Random(){
     const [randomText, setRandomText ] = useState('')
 
     const handleClick = () => {
-        fetch('public/json/content.json') 
+        fetch('/json/content.json') 
           .then(response => response.json())
           .then(data => {
             if (data && data.content && Array.isArray(data.content) && data.content.length > 0) {
